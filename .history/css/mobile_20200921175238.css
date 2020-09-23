@@ -1,0 +1,7 @@
+/* Navigation  */
+#main-nav .social {
+  display: none;
+}
+
+@media (max-width: 768px) {
+}
